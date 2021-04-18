@@ -1,0 +1,12 @@
+---
+default: --publish-quiet -p html -p ci -p adm -p chrome
+
+ci: --format progress
+bdd: --format pretty
+
+html: --format html --out=screenshots/Relatorio.html
+
+adm: ENVIRONMENT=adm
+
+chrome: BROWSER=chrome 
+chrome_headless: BROWSER=chrome_headless
