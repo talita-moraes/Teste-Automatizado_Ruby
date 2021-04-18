@@ -7,11 +7,11 @@ Automação no Site Sympla
 
 Projeto simple de automação em ambiente web, utilizando a linguagem ruby com os frameworks Capybara e Cucumber, utilizando a técnica de desenvolvimento orientado a testes(BDD).
 
-## Technologies  :rocket:
+## Tecnologia  :rocket:
 
 [Ruby]
 
-[BDD]
+[HTML/CSS]
 
  ## Features
 
