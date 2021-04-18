@@ -1,8 +1,6 @@
 # Teste-Automatizado_Ruby
 Automação no Site Sympla
 
-<h1 align="center"> Teste Automatizado - Site Sympla</h1>
-
 ## Sobre :book:
 
 Projeto simple de automação em ambiente web, utilizando a linguagem ruby com os frameworks Capybara e Cucumber, utilizando a técnica de desenvolvimento orientado a testes(BDD).
