@@ -1,4 +1,4 @@
-# Teste-Automatizado_Ruby
+<h1 align="center"> Teste Automatizado - Site Sympla</h1>
 Automação no Site Sympla
 
 ## Sobre :book:
