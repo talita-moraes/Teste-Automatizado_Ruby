@@ -1,4 +1,4 @@
-<h1 align="center"> Teste Automatizado - Site Sympla</h1>
+<h1 align="left"> Teste Automatizado - Site Sympla</h1>
 Automação no Site Sympla
 
 ## Sobre :book:
